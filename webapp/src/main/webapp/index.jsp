@@ -1,6 +1,14 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
-<h2> Delopying it on VM </h2>
-<h2> This is using jenkins with Ansiable </h2>
-<h2> Lets do this </h2>
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML Backgorund Color</title>
+   </head>
+   <body style="background-color:grey;">
+      <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
+      <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
+      <h2> Glad to see you here </h2>
+      <h2> Delopying it on VM </h2>
+      <h2> This is using jenkins with Ansiable </h2>
+      <h2> Lets do this </h2>
+   </body>
+</html>
