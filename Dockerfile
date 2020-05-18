@@ -3,6 +3,8 @@ From tomcat:8-jre8
 
 RUN apt-get update -y
 WORKDIR /var/jenkins_home/workspace/my_first_maven_build
+ENV user=kola
+ENV password=3553bhbcsd87y8qhdibuihba!
 # Maintainer 
 LABEL name=test
 RUN useradd -rm -d /home/ubuntu -s /bin/bash -g root -G sudo -u 1000 ubuntu
